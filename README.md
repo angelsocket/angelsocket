@@ -21,3 +21,8 @@ Let's do without a name, I have a nickname. In general, I love Hackintosh and Ap
 - Color: White
 - Memory: 64GB
 ```
+
+- 🎧 Headphones: Fake AirPods Pro 1
+```
+- Fake Airoha chip
+```
