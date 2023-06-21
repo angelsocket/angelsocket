@@ -6,7 +6,7 @@ Let's do without a name, I have a nickname. In general, I love Hackintosh and Ap
 ```
 - Motherboard: ASUS H81M-K
 - CPU: Intel Core i5 4570
-- GPU: Intel HD Graphics
+- GPU: Intel HD Graphics 4600
 - RAM: 8x2=16GB Kingston DDR3 1600MHz
 - SSD: OEM Samsung 128GB
 - PSU: DeepCool PF550
