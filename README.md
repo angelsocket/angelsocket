@@ -11,6 +11,7 @@ Let's do without a name, I have a nickname. In general, I love Hackintosh and Ap
 - SSD: OEM Samsung 128GB
 - PSU: DeepCool PF550
 - Case: Oops! My junk is on the table
+- OS: macOS Ventura 13.4.1 with OpenCore 0.9.3
 ```
 
 - 📱 Phone: iPhone SE 2022
