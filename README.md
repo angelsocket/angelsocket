@@ -17,7 +17,7 @@ Let's do without a name, I have a nickname. In general, I love Hackintosh and Ap
 - OS: macOS Ventura 13.4.1 with OpenCore 0.9.3
 ```
 
-- 📱 Phone: iPhone SE 2022
+- 📱 Phone: iPhone SE 2020
 ```
 - iPhone12,8
 - iOS 16.5.1
