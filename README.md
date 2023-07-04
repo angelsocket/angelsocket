@@ -26,3 +26,7 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 ```
 - Fake Airoha chip
 ```
+
+## Links:
+- Web-Site: [angelsocket.ru](https://angelsocket.ru) Work in progress
+- Telegram: [@angelsocket](https://t.me/angelsocket)
