@@ -1,5 +1,5 @@
 ### Hello my friend 👋
-Let's do without a name, I have a nickname. In general, I love Hackintosh and Apple.
+My name is Eva Ostrovskaya below you will find some information about me and links
 
 ## My devices:
 - 🖥 PC:
