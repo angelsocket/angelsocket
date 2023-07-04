@@ -1,6 +1,3 @@
-
-![Banner](Banner.png)
-
 ### Hello my friend 👋
 Let's do without a name, I have a nickname. In general, I love Hackintosh and Apple.
 
