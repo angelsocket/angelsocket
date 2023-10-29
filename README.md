@@ -4,15 +4,15 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 ## My devices:
 - 🖥 PC:
 ```
-- Motherboard: ASUS H81M-K
-- CPU: Intel Core i5 4570
-- GPU1: Intel HD Graphics 4600
-- GPU2: Gigabyte GT640 2GB DDR3
-- RAM: 8x2=16GB Kingston DDR3 1600MHz
-- SSD: OEM Samsung 128GB
-- PSU: DeepCool PF550
-- Case: Oops! My junk is on the table
-- OS: macOS Ventura 13.5 with OpenCore 0.9.4
+- Motherboard: MSI MPG Z590 Gaming Plus
+- CPU: Intel Core i5 11400F
+- GPU: Reference RX 5700 XT 8GB
+- RAM: 16x2=32GB ADATA XPG Spectrix D35G RGB
+- NVME1: Kingston NV2 500GB
+- NVME2: Kingston NV1 250GB
+- PSU: Gigabyte GP-P750GM
+- Case: Montech Air 1000 Lite White
+- OS: Windows 11 Pro
 ```
 
 - 📱 Phone: iPhone SE 2020
