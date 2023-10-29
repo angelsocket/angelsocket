@@ -18,7 +18,7 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - 📱 Phone: iPhone SE 2020
 ```
 - iPhone12,8
-- iOS 16.6
+- iOS 17.1
 - Color: White
 - Memory: 64GB
 ```
