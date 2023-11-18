@@ -8,7 +8,7 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - CPU: Intel Core i5 11400F
 - GPU: Reference RX 5700 XT 8GB
 - RAM: 16x2=32GB ADATA XPG Spectrix D35G RGB
-- NVME1: Kingston NV2 500GB
+- NVME1: ADATA XPG SX6000 Pro 1TB
 - NVME2: Kingston NV1 250GB
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
