@@ -9,10 +9,13 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - GPU: Reference RX 5700 XT 8GB
 - RAM: 16x2=32GB ADATA XPG Spectrix D35G RGB
 - NVME1: ADATA XPG SX6000 Pro 1TB
-- NVME2: Kingston NV1 250GB
+- NVME2: ADATA XPG SX6000 Pro 512GB
+- WiFi, BT: BCM943602CS
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
-- OS: Windows 11 Pro
+- Bootloader: OpenCore 0.9.6
+- OS1: macOS 14.1.1
+- OS2: Windows 11 Pro
 ```
 
 - 📱 Phone: iPhone SE 2020
