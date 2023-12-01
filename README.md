@@ -14,8 +14,8 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
 - Bootloader: OpenCore 0.9.6
-- OS1: macOS 14.1.1
-- OS2: Windows 11 Pro
+- OS1: macOS 14.1.2
+- OS2: Windows 11 Pro 22H2
 ```
 
 - 📱 Phone: iPhone SE 2020
