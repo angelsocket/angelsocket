@@ -32,9 +32,12 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - Memory: 64GB
 ```
 
-- 🎧 Headphones: Fake AirPods Pro 1
+- 🎧 Headphones:
 ```
-- Fake Airoha chip
+- Honor Choice Earbuds X5 Pro
+```
+```
+- x2 Fake AirPods Pro
 ```
 
 ## Links:
