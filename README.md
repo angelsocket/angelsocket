@@ -18,9 +18,15 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - OS2: Windows 11 Pro 22H2
 ```
 
-- 📱 Phone: iPhone SE 2020
+- 📱 Phones:
 ```
-- iPhone12,8
+- Pixel 4 
+- Pixel Experience Plus 13
+- Color: Oh So Orange
+- Memory: 128GB
+```
+```
+- iPhone SE 2020
 - iOS 17.1
 - Color: White
 - Memory: 64GB
