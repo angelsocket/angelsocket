@@ -13,8 +13,8 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - WiFi, BT: BCM943602CS
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
-- Bootloader: OpenCore 0.9.6
-- OS1: macOS 14.1.2
+- Bootloader: OpenCore 0.9.7
+- OS1: macOS 14.2
 - OS2: Windows 11 Pro 22H2
 ```
 
