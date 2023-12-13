@@ -7,7 +7,7 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - Motherboard: MSI MPG Z590 Gaming Plus
 - CPU: Intel Core i5 11400F
 - GPU: Reference RX 5700 XT 8GB
-- RAM: 16x2=32GB ADATA XPG Spectrix D35G RGB
+- RAM: 8+8+16+16=48GB ADATA XPG Spectrix D35G RGB
 - NVME1: ADATA XPG SX6000 Pro 1TB
 - NVME2: WD Green SN350 512GB
 - WiFi, BT: BCM943602CS
