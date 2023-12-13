@@ -16,6 +16,9 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - Bootloader: OpenCore 0.9.7
 - OS1: macOS 14.2
 - OS2: Windows 11 Pro 22H2
+- Monitor: Huawei MateView SE SSN-24
+- Keyboards: Akko 5087B Plus Steam Engine, Skyloong SK61 White
+- Mouse: Glorious Model O Matte White Wired
 ```
 
 - 📱 Phones:
