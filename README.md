@@ -24,6 +24,7 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - Pixel Experience Plus 13
 - Color: Oh So Orange
 - Memory: 128GB
+- Orange Fabric Case
 ```
 
 - 🎧 Headphones:
