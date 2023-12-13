@@ -25,14 +25,11 @@ My name is Eva Ostrovskaya below you will find some information about me and lin
 - Color: Oh So Orange
 - Memory: 128GB
 ```
-```
-- iPhone SE 2020
-- iOS 17.1
-- Color: White
-- Memory: 64GB
-```
 
 - 🎧 Headphones:
+```
+- JBL Tune 500
+```
 ```
 - Honor Choice Earbuds X5 Pro
 ```
