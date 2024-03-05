@@ -16,10 +16,16 @@ below you will find some information about me and links
 - Bootloader: OpenCore 0.9.7
 - Monitor: Huawei MateView SE SSN-24
 - Keyboards: Akko 5087B Plus Steam Engine, Skyloong SK61 White
-- Mouse: Glorious Model O Matte White Wired
+- Mouse: Lamzu Atlantis Mini White, Glorious Model O Matte White Wired
 ```
 
 - 📱 Phones:
+```
+- iPhone 12 
+- iOS 17.3.1
+- Color: Starlight
+- Memory: 256GB
+```
 ```
 - Pixel 4 
 - Pixel Experience Plus 13
@@ -30,13 +36,13 @@ below you will find some information about me and links
 
 - 🎧 Headphones:
 ```
-- JBL Tune 500
+- IO Graphite White
 ```
 ```
 - Honor Choice Earbuds X5 Pro
 ```
 ```
-- x2 Fake AirPods Pro
+- x3 Fake AirPods Pro
 ```
 
 ## Links:
