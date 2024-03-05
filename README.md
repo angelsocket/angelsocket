@@ -1,5 +1,5 @@
 ### Hello my friend 👋
-My name is Eva Ostrovskaya below you will find some information about me and links
+below you will find some information about me and links
 
 ## My devices:
 - 🖥 PC:
