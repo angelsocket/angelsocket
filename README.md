@@ -10,7 +10,7 @@ below you will find some information about me and links
 - RAM: 8+8+16+16=48GB ADATA XPG Spectrix D35G RGB
 - NVME1: ADATA XPG SX6000 Pro 1TB (macOS 14.3.1)
 - NVME2: WD Green SN350 480GB (Windows 10)
-- NVME3: Patriot M.2 P310 480GB 480GB
+- NVME3: Patriot M.2 P310 480GB
 - WiFi, BT: Intel AX210NGW
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
