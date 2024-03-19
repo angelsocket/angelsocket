@@ -23,7 +23,7 @@ below you will find some information about me and links
 - 💻 Notebook:
 ```
 - MacBook 12 2017 A1534
-- macOS 14.3.1
+- macOS Ventura 13.6.5
 - Color: Space Gray
 - Identifier: Macbook10,1
 - CPU: Intel Core m3 7y32 1.2GHz
