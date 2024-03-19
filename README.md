@@ -59,5 +59,5 @@ below you will find some information about me and links
 ```
 
 ## Links:
-- Web-Site: [angelsocket.ru](https://angelsocket.ru)
-- Telegram: [@angelsocket](https://t.me/angelsocket)
+- Web-Site: [removeface.ru](https://removeface.ru)
+- Telegram: [@removeface](https://t.me/removeface)
