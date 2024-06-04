@@ -20,7 +20,7 @@ below you will find some information about me and links
 - Mouse: Lamzu Atlantis Mini White, Glorious Model O Matte White Wired
 ```
 
-🖥 Mini ITX PC:
+- 🖥 Mini ITX PC:
 ```
 - Motherboard: JGINYUE B550i Gaming
 - CPU: Ryzen 5 5600G
