@@ -9,8 +9,7 @@ below you will find some information about me and links
 - GPU: Reference RX 5700 XT 8GB
 - RAM: 16+16=32GB ADATA XPG Spectrix D35G RGB White
 - NVME1: ADATA XPG SX6000 Pro 1TB (macOS 14.3.1)
-- NVME2: WD Green SN350 480GB (Windows 10)
-- NVME3: Patriot M.2 P310 480GB
+- NVME2: WD Green SN350 480GB (Windows 11 Pro)
 - WiFi, BT: Intel AX210NGW
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
