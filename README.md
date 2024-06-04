@@ -7,19 +7,31 @@ below you will find some information about me and links
 - Motherboard: MSI MPG Z590 Gaming Plus
 - CPU: Intel Core i5 11400F
 - GPU: Reference RX 5700 XT 8GB
-- RAM: 8+8+16+16=48GB ADATA XPG Spectrix D35G RGB
+- RAM: 16+16=32GB ADATA XPG Spectrix D35G RGB White
 - NVME1: ADATA XPG SX6000 Pro 1TB (macOS 14.3.1)
 - NVME2: WD Green SN350 480GB (Windows 10)
 - NVME3: Patriot M.2 P310 480GB
 - WiFi, BT: Intel AX210NGW
 - PSU: Gigabyte GP-P750GM
 - Case: Montech Air 1000 Lite White
+- CPU Cooler: ID Cooling PinkFlow 240 ARGB v2
 - Bootloader: OpenCore 0.9.9
 - Monitor: Huawei MateView SE SSN-24
 - Keyboards: Akko 5087B Plus Steam Engine, Skyloong SK61 White
 - Mouse: Lamzu Atlantis Mini White, Glorious Model O Matte White Wired
 ```
 
+🖥 Mini ITX PC:
+```
+- Motherboard: JGINYUE B550i Gaming
+- CPU: Ryzen 5 5600G
+- iGPU: Vega 7
+- RAM: 8+8=16GB ADATA XPG Spectrix D35G RGB White
+- NVME1: Patriot P310 480GB
+- PSU: Delta DPS-400AB-12F 400W 
+- CPU Cooler: ID Cooling IS-30
+- Case: Cryptone I White
+```
 - 💻 Notebook:
 ```
 - MacBook 12 2017 A1534
