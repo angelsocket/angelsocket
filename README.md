@@ -6,7 +6,7 @@ below you will find some information about me and links
 ```
 - Motherboard: MSI MPG Z590 Gaming Plus
 - CPU: Intel Core i5 11400F
-- GPU: Reference RX 5700 XT 8GB
+- GPU1: Reference RX 5700 XT 8GB
 - GPU2: PowerColor RX 5600 XT 6GB ITX
 - RAM: 16+16=32GB ADATA XPG Spectrix D35G RGB White
 - NVME1: ADATA XPG SX6000 Pro 1TB (macOS 14.5)
@@ -23,7 +23,7 @@ below you will find some information about me and links
 - Mouse: Lamzu Atlantis Mini White
 ```
 
-- 📱 Phones:
+- 📱 Phone:
 ```
 - iPhone 12 
 - iOS 17.5.1
